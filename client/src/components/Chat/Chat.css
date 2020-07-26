@@ -1,0 +1,18 @@
+.outerContainerChat{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1A1A1D;
+  height:100vh;
+
+}
+
+.innerContainerChat{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: #FFFFFF;
+  border-radius: 8px;
+  height: 60%;
+  width: 35%;
+}

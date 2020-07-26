@@ -1,0 +1,38 @@
+.outerContainer{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1A1A1D;
+  height:100vh;
+  text-align: center;
+
+}
+
+.innerContainer{
+width: 20%;
+}
+
+.heading{
+  color: white;
+  font-size: 2.5em;
+  padding-bottom: 10px;
+  border-bottom: 2px solid white;
+}
+
+.button{
+background-color: blue;
+border-radius: 10px;
+height:30px;
+margin-top: 20px;
+border-width: 0pt;
+text-transform: uppercase;
+color: white;
+width:200px
+}
+
+.input{
+  border-radius: 10px;
+  height:30px;
+  margin-top: 20px;
+  width:200px
+}

@@ -1,0 +1,22 @@
+.onlineIcon{
+    width: 20px;
+    height: 30px;
+}
+
+
+.userContainer{
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+
+
+.TextContainer{
+  display:flex;
+  margin-left: 50px;
+  flex-direction: column;
+  color: white;
+  height: 60%;
+  justify-content: flex-start
+}
